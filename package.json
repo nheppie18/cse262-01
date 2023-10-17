@@ -1,0 +1,19 @@
+{
+  "name": "cse262-01",
+  "version": "1.0.0",
+  "description": "node example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nheppie18/cse262-01.git"
+  },
+  "author": "Nate Hepworth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nheppie18/cse262-01/issues"
+  },
+  "homepage": "https://github.com/nheppie18/cse262-01#readme"
+}
